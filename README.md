@@ -3,7 +3,7 @@ Question no:1 - Refer code
 
 Question no:2 - Refer code
 
-[Question no:3](http://www.google.com)
+[Question no:3](https://thirsty-kilby-8fd941.netlify.app/)
 
 [Question no:4](http://www.google.com)
 
